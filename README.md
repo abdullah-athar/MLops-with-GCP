@@ -19,4 +19,9 @@ Google Cloud Dataproc: Google Cloud Dataproc is a fast, easy-to-use, and fully m
 
 Project details 
 ===
-The main objective of this project is to learn how to automate the whole machine learning app deployment process.
+The main objective of this project is to learn how to automate the whole machine learning app deployment process. This is a first attempt with boiler plate code reused, and subsequent attempts will strive to develop on these topics further!
+
+- Tensorflow
+- Kubernetes 
+- Docker 
+
