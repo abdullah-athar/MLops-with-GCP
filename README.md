@@ -17,4 +17,6 @@ Google Cloud Dataproc: Google Cloud Dataproc is a fast, easy-to-use, and fully m
 
 - Google Cloud BigQuery: Google Cloud BigQuery is a fast, scalable, and fully managed data warehousing service. It can be used to store and analyze large amounts of data, and to power data-driven applications and machine learning models.
 
-
+Project details 
+===
+The main objective of this project is to learn how to automate the whole machine learning app deployment process.
