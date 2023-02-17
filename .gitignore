@@ -1,3 +1,6 @@
 archive/
 .tmp.drive*
 kaggle.json
+seg*
+*.zip
+models/
